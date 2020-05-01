@@ -31,7 +31,7 @@ public class ParametersStepDefinitions {
 
     @When("I click login")
     public void i_click_login() {
-        // Write code here that turns the phrase above into concrete actions
+        /// Write code here that turns the phrase above into concrete actions
 
     }
 
